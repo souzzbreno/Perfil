@@ -27,5 +27,5 @@
           
 </div>
 
-  <font face="Arial"> Arial </font> <br />
+  <font face="Arial" size="13"> Arial </font> <br />
 <font size="13"> Tamanho desta fonte:  4</font> <br />
