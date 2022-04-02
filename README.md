@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 size="4">Olá me chamo Breno, e é aqui onde eu guardo alguns projetos.</h1>
+<h1>Olá me chamo Breno, e é aqui onde eu guardo alguns projetos.</h1>
 
 </div>
 
@@ -23,9 +23,9 @@
   
 <div style="display: inline_block"><br>
   
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
+  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
           
 </div>
 
-  <font face="Arial" size="13"> Arial </font> <br />
-<font size="13"> Tamanho desta fonte:  4</font> <br />
