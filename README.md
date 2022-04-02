@@ -21,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezdez&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />         
