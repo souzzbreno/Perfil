@@ -1,4 +1,6 @@
-##                Olá me chamo Breno, e aqui é onde eu guardo alguns projetos.
+##Olá me chamo Breno, e aqui é onde eu guardo alguns projetos.
+
+h1 class="title no-thumb large bold">Guia Básico de Git – Como fazer commit no Github</h1>
 
 <div align="center">
   
