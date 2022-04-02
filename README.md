@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 class="title no-thumb large bold">Olá me chamo Breno, e aqui é onde eu guardo alguns projetos.</h1>
+<h1>Olá me chamo Breno, e aqui é onde eu guardo alguns projetos.</h1>
 
 </div>
 
