@@ -34,5 +34,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=souzzbreno&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
