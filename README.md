@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&color=F1F722&center=true&vCenter=true&width=435&lines=Oi%2C+me+chamo+Breno+Souza;Graduado+em+Sistemas+de+informa%C3%A7%C3%A3o;E+aqui+armazeno+meus+projetos.)](https://git.io/typing-svg)
